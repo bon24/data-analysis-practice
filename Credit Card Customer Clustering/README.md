@@ -61,6 +61,7 @@ Cluster 4 – 저소득·저활동층 (41%)
 
 
 5. 사용 기술
+
 언어/라이브러리: Python (Pandas, Numpy, Matplotlib, Seaborn, Scikit-learn)
 
 분석 기법:
